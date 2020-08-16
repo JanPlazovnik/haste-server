@@ -1,0 +1,78 @@
+/*
+  Google Dark code by https://github.com/AlexFlipnote
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: transparent;
+  color: #BDBDBD;
+}
+
+.hljs-params {
+  color: #BDBDBD;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #9E9E9E;
+}
+
+.hljs-selector-tag,
+.hljs-section {
+  color: #2196F3;
+}
+
+.hljs-variable, .hljs-keyword, .hljs-title, .hljs-attr,
+.hljs-template-variable, .hljs-selector-class, .hljs-selector-id {
+  color: #fba922;
+}
+
+.hljs-string,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-regexp {
+  color: #198844;
+}
+
+.hljs-literal,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-meta,
+.hljs-number,
+.hljs-link {
+  color: #fba922;
+}
+
+.hljs-doctag, .hljs-type, .hljs-built_in,
+.hljs-builtin-name {
+  color: #a36ac7;
+}
+
+.hljs-attribute,
+.hljs-subst, .hljs-name {
+  color: #ff4500;
+}
+
+.hljs-formula {
+  background-color: #eee;
+  font-style: italic;
+}
+
+.hljs-addition {
+  background-color: #baeeba;
+}
+
+.hljs-deletion {
+  background-color: #ffc8bd;
+}
+
+.hljs-doctag,
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
